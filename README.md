@@ -8,15 +8,7 @@
 
 **A voice-first habit tracker. Talk about your day, and AI ticks off your habits, syncs your calendar and writes your daily review.**
 
-[![CI](https://github.com/TheShreyank/ASYNC-26/actions/workflows/ci.yml/badge.svg)](https://github.com/TheShreyank/ASYNC-26/actions/workflows/ci.yml)
-![Status](https://img.shields.io/badge/status-beta-yellow)
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/node-%E2%89%A5%2020.9-339933?logo=nodedotjs&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Hackathon](https://img.shields.io/badge/ASYNC%2726-submission-4CB050)
-
-[**Live Demo**](https://async-26.vercel.app/) &nbsp;·&nbsp; [Architecture](#2-architecture--system-design) &nbsp;·&nbsp; [Quick Start](#3-installation--configuration) &nbsp;·&nbsp; [Security](SECURITY.md)
+[**Live Demo**](https://casualhealth.vercel.app/) &nbsp;·&nbsp; [Architecture](#2-architecture--system-design) &nbsp;·&nbsp; [Quick Start](#3-installation--configuration) &nbsp;·&nbsp; [Security](SECURITY.md)
 
 </div>
 
